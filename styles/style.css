@@ -1,5 +1,7 @@
-/* .bg-image{
-    background-image: url(../images/Vector.png);
+.bg-image{
+    background-image: url(../images/bg.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
+    
    
-} */
+}
